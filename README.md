@@ -1,2 +1,2 @@
 # curso-logica-de-programacao
-Repositório do curso de Lógica de Programação da comunidade Dev Completo
+Repositório do curso de Lógica de Programação da comunidade Dev Completo.
