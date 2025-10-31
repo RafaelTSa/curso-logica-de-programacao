@@ -1,1 +1,2 @@
-nome = "Rafael" #variável do tipo string (texto), sempre entre aspas ('' ou "")
+nome = "Rafael" # variável do tipo string (texto), sempre entre aspas ('' ou "")
+idade = 39      # var do tipo inteiro (núm sem casas decimais)
