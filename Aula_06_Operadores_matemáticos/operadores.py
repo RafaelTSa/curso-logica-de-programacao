@@ -3,4 +3,4 @@ print ( 6 - 4) # printa na tela um exemplo utilizando o operardor de - "subtraç
 print (10 * 5) # printa na tela um exemplo utilizando o operardor de * "multiplicação"
 print (12 / 2) # printa na tela um exemplo utilizando o operardor de / "divisão"
 print (15 % 7) # printa na tela um exemplo utilizando o operardor de % "resto da divisão"
-print (2*5) # printa na tela um exemplo utilizando o operardor de * "potencia"
+print (2 ** 2) # printa na tela um exemplo utilizando o operardor de * "potencia"
