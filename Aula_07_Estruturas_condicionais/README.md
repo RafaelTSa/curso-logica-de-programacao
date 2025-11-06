@@ -14,3 +14,9 @@
 # Se você tiver 10 reais ou mais na carteira, pode pedir o cappuccino.
 # Se você tiver 7 reais ou mais, pode pedir o café com leite.
 # Se não, pede o café simples.
+
+# Sintaxe básica no Python!
+
+# if   -  " se "
+# else -  " se não "
+# elif -  " se + se não "
