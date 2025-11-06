@@ -20,3 +20,13 @@
 # if   -  " se "
 # else -  " se não "
 # elif -  " se + se não "
+
+# if condição:
+# Código a ser executado se a condição for verdadeira
+
+# elif outra_condição:
+# Código executado se a primeira condição for falsa, mas essa for verdadeira
+
+# else:
+# Código executado se nenhuma das condições anteriores for verdadeira
+    
