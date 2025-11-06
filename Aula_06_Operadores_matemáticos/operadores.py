@@ -1,3 +1,7 @@
+# Operações básicas: +, -, *, /, %, **
+# % -> resto da divisão! Ex. : 4 % 2 tem resto 0
+# ** -> elevado a, 4 elevado a 2 (potência)
+
 print (2 + 2) # printa na tela um exemplo utilizando o operador de + "soma"
 print (6 - 4) # printa na tela um exemplo utilizando o operardor de - "subtração"
 print (10 * 5) # printa na tela um exemplo utilizando o operardor de * "multiplicação"
