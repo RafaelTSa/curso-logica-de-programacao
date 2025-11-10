@@ -16,3 +16,4 @@ elif peso <=5:
     print("O valor do frete é R$:", frete_medio)
 else:
     print("O valor do frete é R$:", frete_pesado)
+    
