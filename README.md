@@ -6,7 +6,3 @@ Este repositório documenta meu progresso e soluções de exercícios do curso d
 - Python 3
 - Git & GitHub
 - Visual Studio Code
-
-## 📚 Módulos / Aulas Concluídas
-
-- [✅] [Aula 04 - Escrevendo seu primeiro programa](Aula_04/)
