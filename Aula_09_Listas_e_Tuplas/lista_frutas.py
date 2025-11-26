@@ -7,3 +7,6 @@ frutas = ["maça", "banana", "laranja"]
 
 print (frutas)
 print(frutas[0]) # "maça"
+print(frutas[1]) # "banana"
+print(frutas[-1]) # "laranja" (índice negativo conta de trás para frente)
+
