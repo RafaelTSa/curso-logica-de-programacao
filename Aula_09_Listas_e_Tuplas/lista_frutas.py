@@ -6,3 +6,4 @@ frutas = ["maça", "banana", "laranja"]
 # Acessando elementos da lista
 
 print (frutas)
+print(frutas[0]) # "maça"
