@@ -10,3 +10,5 @@ numeros.append(4)
 print(numeros) # [1, 2, 3, 4] após o append adiciona o 4 a lista.
 
 
+numeros.insert(1, 10)
+print(numeros)
