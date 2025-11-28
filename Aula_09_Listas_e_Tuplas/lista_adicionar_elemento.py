@@ -11,4 +11,4 @@ print(numeros) # [1, 2, 3, 4] após o append adiciona o 4 a lista.
 
 
 numeros.insert(1, 10) # (posição, valor)
-print(numeros) # [1, 10, 2, 3, 4] (insere o nuemro 10 na posição 1 da lista numeros)
+print(numeros) # [1, 10, 2, 3, 4] (insere o numero 10 na posição 1 da lista numeros)
