@@ -1,0 +1,1 @@
+# Removendo elementos da lista
