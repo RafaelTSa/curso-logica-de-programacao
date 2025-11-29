@@ -8,4 +8,4 @@ frutas.remove("banana")
 print(frutas) # ["maça", "laranja"]
 
 frutas.pop(0)
-print(frutas) # ["laranja"] apenas "laranja" aparece ja que o .remove retirou o "banana" antes.
+print(frutas) # ["laranja", "uva"] apenas "laranja e uva" aparecem ja que o .remove retirou o "banana" antes.
