@@ -9,6 +9,9 @@ print(numeros)
 
 # Acessando elementos
 print(cores[0]) # "vermelho"
-print (cores[-1]) # verde
+print(cores[-1]) # verde
 print(numeros[2]) # 3
 print(numeros[-2]) # 4
+
+# Tentando modificar uma tupla (Erro!)
+cores [1] = "amarelo" # ❌Isso gera um erro, pois tuplas são imutáveis!
