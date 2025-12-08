@@ -16,6 +16,7 @@ print(numeros[-2]) # 4
 # Tentando modificar uma tupla (Erro!)
 cores [1] = "amarelo" # ❌Isso gera um erro, pois tuplas são imutáveis!
 
+
 # Quando usar tuplas?
 #  - Quando queremos garantir que os valores não sejam alterados.
 #  - Para armazenar dados fixos como coordenadas, meses do ano, dias da semana, etc.
