@@ -9,8 +9,8 @@
 # Você quer saber se um apalavra contém a letra Y
 
 palavra = "Python"
+letraProcurada = "y"
 
 for letra in palavra:
-    if letra == "y":
+    if letra == letraProcurada:
         print("Essa palavra tem a letra Y!")
-        
