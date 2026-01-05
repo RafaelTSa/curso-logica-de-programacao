@@ -7,4 +7,4 @@
 # Exemplo "real"
 # Imagine que você tem que calcular o imposto de vários produtos em uma loja.
 # Em vez de repetir a mesma conta várias vezes, vovê pode criar uma função
-# chamada calcular_imposto() e usá-la sempre que presisar.
+# chamada calcular_imposto() e usá-la sempre que precisar.
