@@ -11,3 +11,6 @@
 
 def saudacao(nome):
     print(f"Olá, {nome}! Bem-vindo ao curso de Python.")
+
+nome = input("Digite seu nome: ")
+saudacao(nome)
