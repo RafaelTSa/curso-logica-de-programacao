@@ -26,6 +26,6 @@ resultado = multiplicar(a, b)
 print(f"A multiplicação é {resultado}")
 
 resultado = dividir(a, b)
-print(f"A divisão é {resultado:.2f}") # :.2f mostra apenas dois números apos a virgula
+print(f"A divisão é {resultado:.2f}") # :.2f mostra apenas dois números após a virgula
 
 
