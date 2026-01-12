@@ -1,7 +1,8 @@
 def opposite(number):
     return number * -1
 
-number = int(input("Digite um número: "))
+print("Digite um número:")
+number = int(input(">>> "))
 result = opposite(number)
 
 print(f"O oposto do número {number} É: {result}")
